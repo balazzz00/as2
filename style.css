@@ -1,0 +1,114 @@
+body{
+    margin: 0 auto;
+    width: 1500px;
+    background-color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#menuparent{
+    display: flex;
+    margin-top: 30px;
+     
+}
+#menu{
+    color:rgb(191, 191, 191) ;
+    display: flex;
+    padding-left: 630px;}
+    #acme{
+        color:rgb(191, 191, 191) ;
+        margin-left: 100px;
+        border-top: 5px solid rgb(191, 191, 191);
+        height:5px;
+        font-size: x-large;
+    }
+    .pro1,.pro2,.pro3,.pro4{
+        padding-right: 30px;
+    }
+    .icon{
+        padding-left: 10px;
+        width: 10px;
+        height: 10px;
+    }
+    #div1{
+        padding-left: 40px;
+    }
+    #d1{
+        font-size: larger;
+        padding-left: 65px;
+        margin-top: 80px;
+        display: flex;
+        gap: 10px;
+        width: 500px;
+    }
+    #d2{
+        font-size: x-large;
+        width: 700px;
+        padding-left:65px;
+    }
+    p{
+        color:rgb(191, 191, 191) ;
+    }
+    #pd{
+        display:flex;
+    }
+    button{
+        background-color: black;
+        color: white;
+        margin-top:40px ;
+        margin-left: 65px;
+        width: 200px;
+        height: 50px;
+    }
+    #lps1{
+        margin-top:30px;
+        padding-left: 100px;
+        display: flex;
+        grid-template-columns: auto auto auto auto;
+        gap: 110px;
+    }
+    #lp1{
+        background-color: gray;
+        width: 200px;
+        height: 100px;
+    }
+    #lp2{
+        background-color: gray;
+        width: 200px;
+        height: 100px;
+    }
+    #lp3{
+        background-color: gray;
+        width: 200px;
+        height: 100px;
+    }
+    #lp4{
+        background-color: gray;
+        width: 200px;
+        height: 100px;
+    }
+    
+    .l1{
+        border: 1px solid gray;
+        width: 200px;
+        height: 100px;
+    }
+    .l2{
+        border: 1px solid gray;
+        width: 200px;
+        height: 100px;
+    }
+    .l3{
+        border: 1px solid gray;
+        width: 200px;
+        height: 100px;
+    }
+    .l4{
+        border: 1px solid gray;
+        width: 200px;
+        height: 100px;
+    }
+    .line{
+        margin-left: 85px;
+        width: 1150px;
+        margin-top: 100px;
+        border-top: 1px solid black;
+    }
